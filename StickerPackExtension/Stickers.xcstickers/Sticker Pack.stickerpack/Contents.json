@@ -1,0 +1,71 @@
+{
+  "stickers" : [
+    {
+      "filename" : "71_pet_emoji.sticker"
+    },
+    {
+      "filename" : "72_pet_emoji.sticker"
+    },
+    {
+      "filename" : "73_pet_emoji.sticker"
+    },
+    {
+      "filename" : "74_pet_emoji.sticker"
+    },
+    {
+      "filename" : "75_pet_emoji.sticker"
+    },
+    {
+      "filename" : "76_pet_emoji.sticker"
+    },
+    {
+      "filename" : "77_pet_emoji.sticker"
+    },
+    {
+      "filename" : "78_pet_emoji.sticker"
+    },
+    {
+      "filename" : "79_pet_emoji.sticker"
+    },
+    {
+      "filename" : "80_pet_emoji.sticker"
+    },
+    {
+      "filename" : "81_pet_emoji.sticker"
+    },
+    {
+      "filename" : "82_pet_emoji.sticker"
+    },
+    {
+      "filename" : "83_pet_emoji.sticker"
+    },
+    {
+      "filename" : "84_pet_emoji.sticker"
+    },
+    {
+      "filename" : "85_pet_emoji.sticker"
+    },
+    {
+      "filename" : "86_pet_emoji.sticker"
+    },
+    {
+      "filename" : "87_pet_emoji.sticker"
+    },
+    {
+      "filename" : "88_pet_emoji.sticker"
+    },
+    {
+      "filename" : "89_pet_emoji.sticker"
+    },
+    {
+      "filename" : "90_pet_emoji.sticker"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "grid-size" : "small"
+  }
+}
