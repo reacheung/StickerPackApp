@@ -1,2 +1,2 @@
-# StickerPackAppDemo
-IMessageAPP Demo
+# StickerPackApp
+IMessageAPP 
